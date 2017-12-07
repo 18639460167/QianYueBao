@@ -1,0 +1,196 @@
+/*
+ Localizable.strings
+ QianYueBao
+ 
+ Created by tenpastnine-ios-dev on 17/3/27.
+ Copyright © 2017年 Black. All rights reserved.
+ */
+
+
+
+"BACK" = "Back";
+"Search" = "Search";
+"Determine" = "Confirm";
+"Cancel" = "Cancel";
+"Change" = "Change";
+"Save_Success" = "Save successfully";
+"Save_Fail" = "Save failed";
+"Change_Success" = "Change successfully";
+"Save" = "Save";
+"Use_Immediately" = "Join now";
+"Open" = "Spread";
+"Close" = "Retract";
+"Delete" = "Delete";
+"Home" = "Home";
+"User" = "Me";
+
+/**
+ *  刷新
+ */
+"Not_More" = "No more";
+"Uploading" = "Uploading...";
+"Submit_Success" = "Submit successfully";
+"Merchant_Trade_Charts" = "Ranking list";
+"Uploaded_Success" = "Upload successfully";
+"Upload_Fail_Number" = "%zd of these uploads failed";
+"Disconnect_Internet" = "Network error，please try again later!";
+
+/**
+ *  Home
+ */
+"Signed_Success_Number" = "Signed merchant";
+"TransAction_Amount_Week" = "Total trading volume this week";
+"Has_Been_Signed" = "Signed";
+"Under_Review" = "In audit";
+"Wait_Submit" = "Pending";
+"Unknow" = "Unknown";
+"Review_Fail" = "Audit failure";
+"Determiner_Submit" = "Confirm";
+"Review_Fail_Change" = "Failed（click to edit）";
+"Review_Fail_Reason" = "The information submitted is incomplete，please resubmit the audit after examination";
+"Search_Loading" = "Searching...";
+"Basic_Message" = "Basic info.";
+"Contract_Message" = "Contract info.";
+"Contract_Change" = "Change of contract";
+"Owner_Message" = "Wwner info.";
+"Shop_Message" = "Shop info.";
+"Latitude_Longitude" = "Lng and Lat：";
+"Detailed_Address" = "Detailed address：";
+
+"Enter_Merchant_Name" = "Please input merchant name";
+"Rank" = "Ranking";
+"Trading_Volume" = "Trans. Amount";
+"Shop_Name" = "Merchant name";
+"Trading_Water" = "Trans. flow";
+"Liquidation_Record" = "Liquidation record";
+"Material_Information" = "QRcode info.";
+"Transaction_Details" = "Trading detail";
+"Trade_Charts" = "Trading charts";
+"Liquidation_Status" = "Settlement status";
+"Not_Cleared" = "Undischarged";
+"Has_Been_Cleared" = "Liquidated";
+"Change_Qr" = "Each shop has different QRcode，please pay attention to switch";
+"Save_Photo" = "Save to album";
+"Save_Fail" = "Save failed";
+
+"Settle_Finish" = "Settled";
+"Settlf_Fail" = "Unsettle";
+"Order_detail" = "Order detail";
+"Actual_Receivable" = "Amount receivable:";
+"Settlement_Amount" = "Settlement amount:";
+"Trading_Status" = "Trans. status:";
+"Channels_Payment" = "Payment channel:";
+"Payment_Business" = "Trading shop:";
+"Transaction_Time" = "Trading time:";
+"Transaction_Number" = "Trading number:";
+"Payment_Code" = "Payment number:";
+"Refund_Start_Time" = "Refund time:";
+"Refund_Reason" = "Refund reason:";
+"Contract_Inforce" = "In force";
+"Contract_Expired" = "Expired";
+
+/**
+ *  sign
+ */
+"Information_Collection" = "Collection";
+"Submit" = "Submit";
+"Create_New" = "Newly build";
+"Add_Owner_Message" = "Add owner info.";
+"Update_Success" = "Upload successfully";
+"Owner_Name" = "Owner name";
+"Account_Number" = "Account";
+"Account_Name" = "Account name";
+"Search_Owner" = "Please input owner name to search";
+"Country" = "Country";
+"Belong_Category" = "Subordinate category";
+"Cooperation_Competing" = "Cooperation";
+"Payment_Interface" = "Payment channel";
+"Recommend_Service" = "Recommended";
+"Please_Open_Location" = "Turn on the location service，then use the location function";
+"Refuse_Visit" = "Access denied";
+"Unable_Get_Location" = "Fail to get location info.";
+
+"Locationing" = "Location...";
+"Location_Fail" = "Location failed";
+"Done" = "Paid";
+"Procress" = "Refund";
+"Refunded" = "Refunded";
+"UnPay" = "Unpaid";
+"Message_Draft" = "Draft info.";
+
+/**
+ *  店主信息
+ */
+"Owner_Name_Colon" = "Owner name:";
+"Account_Name_Colon" = "Account name:";
+"ID_Card_C" = "ID Card:";
+"Country_C" = "Country:";
+"Province_C" = "Province:";
+"City_C" = "City:";
+"Dispatch_Address_C" = "Address:";
+"Telephone_C" = "Phone:";
+"Phone_C" = "Mobile:";
+"Email_C" = "Email:";
+"Remittance_Bank_C" = "Bank:";
+"Branch_C" = "Branch:";
+"Swift_Code_C" = "SWIFT CODE:";
+"Bank_Account_Name_C" = "Bank Account Name:";
+"Bank_Account_C" = "Bank Account Number:";
+
+/**
+ *  商户信息
+ */
+"Account_C" = "Account:";
+"Shop_Logo" = "Shop logo:";
+"Shopper_Name" = "Shop name:";
+"Detail_Address" = "Detailed address:";
+"Belong_Area" = "Occupation area:";
+"Belong_Cate" = "Subordinate category:";
+"Coorperation" = "Cooperation:";
+"Product_Service" = "Recommended:";
+"Publicize_Photo" = "Publicity photos:";
+"Rate" = "Rate:";
+"Contract_Photo" = "Contract photos:";
+"PayChannel" = "Payment channel:";
+"Settle_Cycle" = "Settlement cycle:";
+
+
+/**
+ *  个人
+ */
+"Me" = "Me";
+"Telephone" = "Service number";
+"More" = "MORE";
+"Service_Hotline" = "CONSULT LINE";
+"Online_Service" = "SERVICE ONLINE";
+"Information" = "Info.";
+"Personal_Information" = "Personnal info.";
+"Profile_Picture" = "Avatar:";
+"Nickname" = "Nickname:";
+"Email" = "Email:";
+"Sign_Out" = "Log out";
+"Take_Picture" = "Photograph";
+"Select_From_Album" = "Select from album";
+"Business_Situation" = "Enterprise situation";
+"Version_Notification" = "Version notification";
+
+/**
+ *  登录
+ */
+"Login" = "Login";
+
+/**
+ *  选择照片
+ */
+"Select_Photos" = "Select album";
+"Delete_This_Picture" = "Confirm to delete this photo？？";
+"Select_Only_Picture" = "Only %zd pictures at most";
+"Picture_Alert" = "No permissions to open album，please open it in system setting";
+"Temporarily" = "OK";
+"Go_Set" = "Set now";
+"Finish" = "Finish";
+"Album_Permissions_Not_Open" = "Album permissions not opened";
+"Set_Album_Permission" = "Please open album service in system setting/（setting/privacy/album/open）";
+"Number_Photos_Unexceed" = "The number of photos cannot exceed%zd";
+"PICKER_PowerBrowserPhotoLibirayText" = "You close the service of album,to open it ,please come to system setting->privacy->my app to open the permission";
+

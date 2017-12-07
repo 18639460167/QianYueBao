@@ -1,0 +1,170 @@
+//
+//  PrefixHeader.pch
+//  QianYueBao
+//
+//  Created by tenpastnine-ios-dev on 17/3/24.
+//  Copyright © 2017年 Black. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "BDStyle.h"
+#import "BDDefinerHeard.h"
+#import "HYHttpClient.h"
+#import "HYHttpsResponse.h"
+/**
+ *  home
+ */
+#import "BDHomeViewController.h"
+#import "BDSearchViewController.h"
+#import "BDChartsViewController.h"
+#import "BDSignFinishViewController.h"
+#import "BDTransActionFlowViewController.h"
+#import "BDLiquidationViewController.h"
+#import "BDMaterialInformationViewController.h"
+#import "BDContractChangeViewController.h"
+#import "BDChangeContractViewController.h"
+#import "BDBasisMessageViewController.h"
+#import "BDWithdrawDetailViewController.h"
+#import "BDOrderDeatilViewController.h"
+
+#import "BDCodeView.h"
+#import "BDPayTagView.h"
+#import "BDSliderView.h"
+#import "BDPayWayView.h"
+#import "BDBottomView.h"
+#import "BDPopOverMenu.h"
+#import "BDHomeDataView.h"
+#import "BDHomeScrollView.h"
+#import "BDTableHeardView.h"
+#import "BDOrderDetailTableViewCell.h"
+#import "BDOrderStatusTableViewCell.h"
+#import "BDOrderTableViewCell.h"
+#import "BDTradeTableViewCell.h"
+#import "BDChartTableViewCell.h"
+#import "BDMessageTableViewCell.h"
+#import "BDLocationTableViewCell.h"
+#import "BDWithdrawTableViewCell.h"
+#import "BDChoosePayWayTableViewCell.h"
+#import "BDChooseMessageTableViewCell.h"
+#import "BDBasisMessageViewController.h"
+#import "BDContractChangeTableViewCell.h"
+#import "BDContractPictureTableViewCell.h"
+
+
+/**
+ *  model
+ */
+#import "BDPayWayModel.h"
+//#import "BDSignMessageModel.h"
+#import "BDLocationModel.h"
+#import "BDSignCategoryModel.h"
+#import "BDSearchShopViewModel.h"
+#import "BDHomeViewModel.h"
+#import "BDSignListModel.h"
+#import "BDSettleMentViewModel.h"
+#import "BDTranctionViewModel.h"
+#import "BDContractViewModel.h"
+#import "BDTransRankModel.h"
+
+#import "BDBasicMessageModel.h"
+#import "BDContractModel.h"
+#import "BDOwnerModel.h"
+#import "BDSignDetailModel.h"
+#import "BDCountryModel.h"
+#import "BDSettleMentModel.h"
+#import "BDTransactionModel.h"
+
+/**
+ *  *******************************Setting*****************************
+ */
+#import "BDMessageView.h"
+
+#import "BDUserViewController.h"
+#import "BDLoginViewController.h"
+#import "BDConsultViewController.h"
+#import "BDSettingViewController.h"
+
+/**
+ *  *******************************Sign********************************
+ */
+#import "BDSignViewController.h"
+#import "BDAddOwnerViewController.h"
+#import "BDOwnerMessageViewController.h"
+#import "BDSelectMessageViewController.h"
+#import "BDMoreChooseViewController.h"
+#import "BDSignDeatilViewController.h"
+#import "BDChooseOnlyViewController.h"
+
+#import "BDOwnerSearchView.h"
+#import "BDCategoryMenuView.h"
+#import "BDChooseHeardView.h"
+
+#import "BDMoreChooseTableViewCell.h"
+#import "BDOwnerMessageTableViewCell.h"
+#import "BDAddOwnerTableViewCell.h"
+#import "BDSearchOwnerTableViewCell.h"
+#import "BDSelectCategoryTableViewCell.h"
+#import "BDShopLogoTableViewCell.h"
+
+/**
+ *  model
+ */
+#import "BDAccountService.h"
+#import "BDMoreSelectModel.h"
+#import "BDFmdbModel.h"
+#import "BDOwnerViewModel.h"
+#import "BDCommonVieModel.h"
+
+/**
+ *  *******************************Login********************************
+ */
+#import "BDLoginViewController.h"
+#import "BDLoginViewModel.h"
+
+#pragma mark - 公用
+/**
+ *  自定义控件
+ */
+#import "BDTabBar.h"
+#import "BDBackButton.h"
+
+#import "BDWelcomeView.h"
+#import "BDTabBarViewController.h"
+#import "BDCustomNavitionView.h"
+#import "BDSuperViewController.h"
+#import "NavigationViewController.h"
+
+/**
+ *  类别
+ */
+#import "UIColor+BDColor.h"
+#import "NSString+BDExtension.h"
+#import "UIButton+BDButtonSet.h"
+#import "UILabel+BDLabelAction.h"
+#import "UIImage+BDImageAction.h"
+#import "UITextField+BDTextAction.h"
+#import "UITableView+BDTableAction.h"
+#import "UIImageView+BDImageAction.h"
+#import "UIViewController+BDVCAction.h"
+#import "UITableViewCell+HYTableCellAction.h"
+
+/**
+ *  第三方
+ */
+#import "HYPhoto.h"
+#import "Masonry.h"
+#import "FMDB.h"
+#import "SDWebImage/UIImageView+WebCache.h"
+#import <MBProgressHUD/MBProgressHUD.h>
+#import "UIImage+HYPhotoLib.h"
+#import "UIScrollView+EmptyDataSet.h"
+#import "MJRefresh/MJRefresh.h"
+#import <ReactiveCocoa/ReactiveCocoa.h>
+#import <IQKeyboardManager/IQKeyboardManager.h>
+#endif /* PrefixHeader_pch */

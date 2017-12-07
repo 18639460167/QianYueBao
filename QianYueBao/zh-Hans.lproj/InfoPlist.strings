@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  QianYueBao
+
+  Created by tenpastnine-ios-dev on 17/3/27.
+  Copyright © 2017年 Black. All rights reserved.
+*/
+NSPhotoLibraryUsageDescription="App需要您的同意,才能访问相册";
+NSCameraUsageDescription="App需要您的同意,才能访问相机";
+NSLocationWhenInUseUsageDescription = "App需要您的同意,才能访问您位置";

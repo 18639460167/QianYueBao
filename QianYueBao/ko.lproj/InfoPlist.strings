@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  QianYueBao
+
+  Created by tenpastnine-ios-dev on 17/3/27.
+  Copyright © 2017年 Black. All rights reserved.
+*/
+
+NSPhotoLibraryUsageDescription="앨범 방문 동의가 필요합니다";
+NSCameraUsageDescription="카메라 방문 동의가 필요합니다";
+NSLocationWhenInUseUsageDescription = "위치 추적 서비스 동의가 필요합니다";

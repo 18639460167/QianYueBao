@@ -1,0 +1,11 @@
+/* 
+  InfoPlist.strings
+  QianYueBao
+
+  Created by tenpastnine-ios-dev on 17/3/27.
+  Copyright © 2017年 Black. All rights reserved.
+*/
+
+NSPhotoLibraryUsageDescription="App xin đồng ý của bạn,mới được truy cập ảnh";
+NSCameraUsageDescription="App xin đồng ý của bạn,mới được truy cập Camera";
+NSLocationWhenInUseUsageDescription = "App xin đồng ý của bạn,mới được truy cập vị trí của bạn";

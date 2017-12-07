@@ -1,0 +1,194 @@
+/* 
+  Localizable.strings
+  QianYueBao
+
+  Created by tenpastnine-ios-dev on 17/3/27.
+  Copyright © 2017年 Black. All rights reserved.
+*/
+"BACK" = "ย้อนกลับ";
+"Search" = "ค้นหา";
+"Determine" = "ยืนยัน";
+"Cancel" = "ยกเลิก";
+"Change" = "แก้ไข";
+"Save_Success" = "บันทึกสำเร็จ";
+"Save_Fail" = "บันทึกล้มเหลว";
+"Change_Success" = "แก้ไขสำเร็จ";
+"Save" = "บันทึก";
+"Use_Immediately" = "ใช้ทันที";
+"Open" = "เปิด";
+"Close" = "ปิด";
+"Delete" = "ลบ";
+"Home" = "หน้าหลัก";
+"User" = "ของฉัน";
+
+/**
+ *  刷新
+ */
+"Not_More" = "ไม่มีแล้ว";
+"Uploading" = "กำลังโหลด...";
+"Submit_Success" = "ส่งสำเร็จ";
+"Merchant_Trade_Charts" = "จัดอันดับร้านค้า";
+"Uploaded_Success" = "อัพโหลดสำเร็จ";
+"Upload_Fail_Number" = "มี…%อัพโหลดไม่สำเร็จ";
+"Disconnect_Internet" = "อินเตอร์เน็ตไม่ดี กรุณาลองใหม่อีกครั้ง!";
+
+/**
+ *  Home
+ */
+"Signed_Success_Number" = "ร้านค้าที่เซ็นสัญญาเรียบร้อยแล้ว/ร้าน";
+"TransAction_Amount_Week" = "สัปดาห์นี้ปริมาณการซื้อขายรวม";
+"Has_Been_Signed" = "ร้านค้าที่เซ็นสัญญาแล้ว";
+"Under_Review" = "กำลังตรวจสอบ";
+"Wait_Submit" = "รอที่จะส่ง";
+"Unknow" = "ไม่ทราบ";
+"Review_Fail" = "ตรวจสอบล้มเหลว";
+"Determiner_Submit" = "ยืนยันที่จะส่ง";
+"Review_Fail_Change" = "ตรวจสอบล้มเหลว (คลิกที่แก้ไข)";
+"Review_Fail_Reason" = "ข้อมูลการติดต่อส่งมาไม่สมบูรณ์ หลังตรวจสอบกรุณาส่งอีกครั้ง";
+"Search_Loading" = "กำลังค้นหา...";
+"Basic_Message" = "้อมูลพื้นฐาน"; ข
+"Contract_Message" = "ข้อมูลสัญญา";
+"Contract_Change" = "เปลี่ยนแปลงสัญญา";
+"Owner_Message" = "ข้อมูลเจ้าของร้าน";
+"Shop_Message" = "ข้อมูลร้านค้า";
+"Latitude_Longitude" = "ละติจูดลองจิจูด：";
+"Detailed_Address" = "รายละเอียดที่อยู่：";
+
+"Enter_Merchant_Name" = "กรุณากรอกชื่อร้านค้า";
+"Rank" = "อันดับ";
+"Trading_Volume" = "ปริมาณการซื้อขาย";
+"Shop_Name" = "ชื่อร้านค้า";
+"Trading_Water" = "การหมุนเวียนของการทำธุรกรรม";
+"Liquidation_Record" = "บันทึกการชำระบัญชี";
+"Material_Information" = "ข้อมูลวัสดุ";
+"Transaction_Details" = "รายละเอียดธุรกรรม";
+"Trade_Charts" = "จัดอันดับการซื้อขาย";
+"Liquidation_Status" = "สถานะการชำระบัญชี";
+"Not_Cleared" = "ยังไม่ได้ชำระบัญช"; ี
+"Has_Been_Cleared" = "ชำระบัญชีแล้ว";
+"Change_Qr" = "QR Code แต่ละร้านไม่เหมือนกัน กรุณาระวังที่จะเปลี่ยน";
+"Save_Photo" = "บันทึกลงอัลบั้ม";
+"Save_Fail" = "บันทึกล้มเหลว";
+
+"Settle_Finish" = "ชำระบัญชีแล้ว";
+"Settlf_Fail" = "ยังไม่ได้ชำระบัญชี";
+"Order_detail" = "รายละเอียดการสั่งซื้อ";
+"Actual_Receivable" = "จำนวนเงินที่ได้รับ:";
+"Settlement_Amount" = "จำนวนเงินที่ชำระบัญชี:";
+"Trading_Status" = "สถานะของธุรกรรม:";
+"Channels_Payment" = "่องทางการชำระเงิน:"; ช
+"Payment_Business" = "ร้านที่มีการซื้อขาย มีการจ่ายเงิน:";
+"Transaction_Time" = "ระยะเวลาการซื้อขาย:";
+"Transaction_Number" = "หมายเลขการซื้อขาย:";
+"Payment_Code" = "รหัสการชำระเงิน:";
+"Refund_Start_Time" = "เวลาที่เริ่มต้นการคืนเงิน:";
+"Refund_Reason" = "เหตุผลที่คืนเงิน:";
+"Contract_Inforce" = "มีผลบังคับใช้แล้ว";
+"Contract_Expired" = "หมดอายุแล้ว";
+
+
+/**
+ *  sign
+ */
+"Information_Collection" = "เก็บข้อมูล";
+"Submit" = "ส่ง";
+"Create_New" = "สร้างใหม่";
+"Add_Owner_Message" = "เพิ่มข้อมูลร้านค้า";
+"Update_Success" = "อัพโหลดสำเร็จ";
+"Owner_Name" = "ชื่อเจ้าของร้าน";
+"Account_Number" = "บัญชี";
+"Account_Name" = "ชื่อบัญชี";
+"Search_Owner" = "ค้นหาเจ้าของร้าน";
+"Country" = "ประเทศ";
+"Belong_Category" = "หมวดหมู่";
+"Cooperation_Competing" = "คู่แข่ง";
+"Payment_Interface" = "ช่องทางชำระเงิน";
+"Recommend_Service" = "แนะนำสินค้าบริการ";
+"Please_Open_Location" = "กรุณาเปิดโลเคชั่น ถึงจะใช้ฟังก์ชั่นนี้ได้";
+"Refuse_Visit" = "ปฏิเสธ";
+"Unable_Get_Location" = "ไม่สามารถรับข้อมูลสถานที่ได้";
+
+/**
+ *  店主信息
+ */
+"Owner_Name_Colon" = "ชื่อนามสกุลเจ้าของร้าน:";
+"Account_Name_Colon" = "ชื่อบัญชี:";
+"ID_Card_C" = "เลขบัตรประชาชน:";
+"Country_C" = "ประเทศ:";
+"Province_C" = "จังหวัด:";
+"City_C" = "เมือง:";
+"Dispatch_Address_C" = "ที่อยู่ทางไปรษณีย์:";
+"Telephone_C" = "เบอร์โทรศัพท์:";
+"Phone_C" = "มือถือ:";
+"Email_C" = "อีเมล์:";
+"Remittance_Bank_C" = "ธนาคารที่จะต้องการให้เงินเข้าในบัญชี:";
+"Branch_C" = "สาขา:";
+"Swift_Code_C" = "SWIFT CODE:";
+"Bank_Account_Name_C" = "ชื่อบัญชีธนาคาร:";
+"Bank_Account_C" = "เลขบัญชีธนาคาร:";
+
+/**
+ *  商户信息
+ */
+"Account_C" = "บัญชี:";
+"Shop_Logo" = "โลโก้ร้านค้า:";
+"Shopper_Name" = "ชื่อร้านค้า:";
+"Detail_Address" = "รายละเอียดที่อยู่:";
+"Belong_Area" = "พื้นที่:";
+"Belong_Cate" = "หมวดหมู่:";
+"Coorperation" = "คู่แข่ง:";
+"Product_Service" = "แนะนำสินค้าหรือบริการ:";
+"Publicize_Photo" = "ภาพถ่ายโปรโมท:";
+"Rate" = "อัตราค่าธรรมเนียม:";
+"Contract_Photo" = "ภาพถ่ายสัญญา:";
+"PayChannel" = "ช่องทางจ่ายเงิน:";
+"Settle_Cycle" = "รอบบิลที่โอน:";
+
+"Locationing" = "กำลังหาโลเคชั่น...";
+"Location_Fail" = "หาโลเคชั่นล้มเหลว";
+"Done" = "สำเร็จ";
+"Procress" = "กำลังคืนเงิน";
+"Refunded" = "คืนเงินแล้ว";
+"UnPay" = "ยังไม่ได้ชำระเงิน";
+"Message_Draft" = "ข้อมูลร่าง";
+
+
+/**
+ *  个人
+ */
+"Me" = "ฉัน";
+"Telephone" = "โทรศัพท์บริการลูกค้า";
+"More" = "มากกว่านี้";
+"Service_Hotline" = "โทรศัพท์บริการลูกค้า";
+"Online_Service" = "บริการลูกค้าออนไลน์";
+"Information" = "ข้อมูล";
+"Personal_Information" = "ข้อมูลส่วนตัว";
+"Profile_Picture" = "รูปโปรไฟล์:";
+"Nickname" = "ชื่อเล่น:";
+"Email" = "อีเมล์:";
+"Sign_Out" = "ออกจากระบบ";
+"Take_Picture" = "ถ่ายรูป";
+"Select_From_Album" = "เลือกจากอัลบั้ม";
+"Business_Situation" = "สถานการณ์ธุรกิจ";
+"Version_Notification" = "แจ้งเตือนเวอร์ชั่น "; 
+
+
+/**
+ *  登录
+ */
+"Login" = "ลงชื่อเข้าใช้";
+
+/**
+ *  选择照片
+ */
+"Select_Photos" = "เลือกรูปภาพ";
+"Delete_This_Picture" = "แน่ใจหรอที่จะลบภาพนี้?";
+"Select_Only_Picture" = "เลือกได้สูงสุด %zd รูป";
+"Picture_Alert" = "ยังไม่มีสิทธิ์เปิดอัลบั้ม กรุณาไปที่ตั้งค่าแล้วเปิด";
+"Temporarily" = "ชั่วคราว";
+"Go_Set" = "ไปที่การตั้งค่า";
+"Finish" = "สำเร็จ";
+"Album_Permissions_Not_Open" = "ยังไม่มีสิทธิ์เปิดอัลบั้ม";
+"Set_Album_Permission" = "กรุณาไปที่ตั้งค่าแล้วเปิดใช้กล้องถ่ายรูป (ตั้งค่า>ความเป็นส่วนตัว>กล้อง>เปิด)";
+"Number_Photos_Unexceed" = "จำนวนรูปภาพไม่สามารถเกินได้";
+"PICKER_PowerBrowserPhotoLibirayText" = "คุณบล็อกสิทธิ์เลือกอัลบั้ม กรุณาเปิดระบบการตั้งค่า > ความเป็นส่วนตัว > แอพของฉันได้รับการเปิด";

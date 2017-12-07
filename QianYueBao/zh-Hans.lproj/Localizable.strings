@@ -1,0 +1,194 @@
+/* 
+  Localizable.strings
+  QianYueBao
+
+  Created by tenpastnine-ios-dev on 17/3/27.
+  Copyright © 2017年 Black. All rights reserved.
+*/
+
+"BACK" = "返回";
+"Search" = "搜索";
+"Determine" = "确定";
+"Cancel" = "取消";
+"Change" = "修改";
+"Save_Success" = "保存成功";
+"Save_Fail" = "保存失败";
+"Change_Success" = "修改成功";
+"Save" = "保存";
+"Use_Immediately" = "立即使用";
+"Open" = "展开";
+"Close" = "收起";
+"Delete" = "删除";
+"Home" = "首页";
+"User" = "我的";
+
+/**
+ *  刷新
+ */
+"Not_More" = "没有更多";
+"Uploading" = "上传中...";
+"Submit_Success" = "提交成功";
+"Merchant_Trade_Charts" = "商户交易排行榜";
+"Uploaded_Success" = "上传成功";
+"Upload_Fail_Number" = "其中%zd张上传失败";
+"Disconnect_Internet" = "网络好像不给力哦，请稍后再试!";
+
+/**
+ *  Home
+ */
+"Signed_Success_Number" = "已签约成功商户／家";
+"TransAction_Amount_Week" = "本周累计交易额";
+"Has_Been_Signed" = "已签约";
+"Under_Review" = "审核中";
+"Wait_Submit" = "待提交";
+"Unknow" = "未知";
+"Review_Fail" = "审核失败";
+"Determiner_Submit" = "确认提交";
+"Review_Fail_Change" = "审核失败(点击修改)";
+"Review_Fail_Reason" = "提交的商户资料信息不完整，请检查后重新提交审核";
+"Search_Loading" = "搜索中...";
+"Basic_Message" = "基本信息";
+"Contract_Message" = "合同信息";
+"Contract_Change" = "合同变更";
+"Owner_Message" = "店主信息";
+"Shop_Message" = "商铺信息";
+"Latitude_Longitude" = "经纬度：";
+"Detailed_Address" = "详细地址：";
+
+"Enter_Merchant_Name" = "请输入商家名称";
+"Rank" = "排名";
+"Trading_Volume" = "交易额";
+"Shop_Name" = "商户名称";
+"Trading_Water" = "交易流水";
+"Liquidation_Record" = "清算记录";
+"Material_Information" = "物料信息";
+"Transaction_Details" = "交易详情";
+"Trade_Charts" = "交易排行榜";
+"Liquidation_Status" = "清算状态";
+"Not_Cleared" = "未清算";
+"Has_Been_Cleared" = "已清算";
+"Change_Qr" = "每家店铺二维码不同，请注意切换";
+"Save_Photo" = "保存到相册";
+"Save_Fail" = "保存失败";
+
+"Settle_Finish" = "已清算";
+"Settlf_Fail" = "未清算";
+"Order_detail" = "订单详情";
+"Actual_Receivable" = "应收金额:";
+"Settlement_Amount" = "结算金额:";
+"Trading_Status" = "交易状态:";
+"Channels_Payment" = "支付渠道:";
+"Payment_Business" = "交易店铺:";
+"Transaction_Time" = "交易时间:";
+"Transaction_Number" = "交易号:";
+"Payment_Code" = "支付编码:";
+"Refund_Start_Time" = "退款发起时间:";
+"Refund_Reason" = "退款原因:";
+"Contract_Inforce" = "已生效";
+"Contract_Expired" = "已失效";
+
+/**
+ *  sign
+ */
+"Information_Collection" = "信息采集";
+"Submit" = "提交";
+"Create_New" = "新建";
+"Add_Owner_Message" = "添加店主信息";
+"Update_Success" = "上传成功";
+"Owner_Name" = "店主姓名";
+"Account_Number" = "账号";
+"Account_Name" = "帐号名称";
+"Search_Owner" = "请输入店主姓名搜索";
+"Country" = "国家";
+"Belong_Category" = "所属类目";
+"Cooperation_Competing" = "合作竞品";
+"Payment_Interface" = "支付通道";
+"Recommend_Service" = "推荐产品或服务";
+"Please_Open_Location" = "请打开定位服务，才能使用定位功能";
+"Refuse_Visit" = "拒绝访问";
+"Unable_Get_Location" = "无法获取位置信息";
+
+/**
+ *  店主信息
+ */
+"Owner_Name_Colon" = "店主姓名:";
+"Account_Name_Colon" = "账号名称:";
+"ID_Card_C" = "身份证号:";
+"Country_C" = "国家:";
+"Province_C" = "省:";
+"City_C" = "市:";
+"Dispatch_Address_C" = "通讯地址:";
+"Telephone_C" = "电话:";
+"Phone_C" = "手机:";
+"Email_C" = "邮箱:";
+"Remittance_Bank_C" = "汇款银行:";
+"Branch_C" = "分行:";
+"Swift_Code_C" = "SWIFT CODE:";
+"Bank_Account_Name_C" = "银行账户名称:";
+"Bank_Account_C" = "银行账号:";
+
+/**
+ *  商户信息
+ */
+"Account_C" = "账号:";
+"Shop_Logo" = "店铺logo:";
+"Shopper_Name" = "商家名称:";
+"Detail_Address" = "详细地址:";
+"Belong_Area" = "所属商圈:";
+"Belong_Cate" = "所属类目:";
+"Coorperation" = "合作竞品:";
+"Product_Service" = "推荐产品或服务:";
+"Publicize_Photo" = "宣传照片:";
+"Rate" = "费率:";
+"Contract_Photo" = "合同照片:";
+"PayChannel" = "支付接口:";
+"Settle_Cycle" = "结算周期:";
+
+
+"Locationing" = "定位中...";
+"Location_Fail" = "定位失败";
+"Done" = "已成交";
+"Procress" = "退款中";
+"Refunded" = "已退款";
+"UnPay" = "未支付";
+"Message_Draft" = "信息草稿";
+
+/**
+ *  个人
+ */
+"Me" = "我的";
+"Telephone" = "客服电话";
+"More" = "更多";
+"Service_Hotline" = "客服热线";
+"Online_Service" = "在线客服";
+"Information" = "资讯";
+"Personal_Information" = "个人信息";
+"Profile_Picture" = "用户头像:";
+"Nickname" = "昵称:";
+"Email" = "邮箱:";
+"Sign_Out" = "退出登录";
+"Take_Picture" = "拍照";
+"Select_From_Album" = "从相册中选取";
+"Business_Situation" = "企业近况";
+"Version_Notification" = "版本通知";
+
+/**
+ *  登录
+ */
+"Login" = "登录";
+
+/**
+ *  选择照片
+ */
+"Select_Photos" = "选择相册";
+"Delete_This_Picture" = "确定要删除此图片？";
+"Select_Only_Picture" = "最多只能选择%zd张图片";
+"Picture_Alert" = "还没有开启相册权限~请在系统设置中开启";
+"Temporarily" = "暂不";
+"Go_Set" = "去设置";
+"Finish" = "完成";
+"Album_Permissions_Not_Open" = "相册权限未开启";
+"Set_Album_Permission" = "请在系统设置中开启相机服务\n(设置>隐私>相册>开启)";
+"Number_Photos_Unexceed" = "拍照的个数不能超过%zd";
+"PICKER_PowerBrowserPhotoLibirayText" = "您屏蔽了选择相册的权限，开启请去系统设置->隐私->我的App来打开权限";
+

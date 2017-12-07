@@ -1,0 +1,193 @@
+/* 
+  Localizable.strings
+  QianYueBao
+
+  Created by tenpastnine-ios-dev on 17/3/27.
+  Copyright © 2017年 Black. All rights reserved.
+*/
+"BACK" = "뒤로 가기";
+"Search" = "검색";
+"Determine" = "확인";
+"Cancel" = "취소";
+"Change" = "수정";
+"Save_Success" = "저장됨";
+"Save_Fail" = "저장 실패";
+"Change_Success" = "수정됨";
+"Save" = "저장";
+"Use_Immediately" = "바로 사용";
+"Open" = "더보기";
+"Close" = "접기";
+"Delete" = "삭제";
+
+"Home" = "홈페이지";
+"User" = "마이페이지";
+
+/**
+ *  刷新  새로 고침
+ */
+"Not_More" = "더 이상 없습니다";
+"Uploading" = "업로드 중";
+"Submit_Success" = "제출 완료";
+"Merchant_Trade_Charts" = "가게 거래 순위 차트";
+"Uploaded_Success" = "업로드 완료";
+"Upload_Fail_Number" = "%zd 장 업로드 실패";
+"Disconnect_Internet" = "인터넷 연결이 끊겼습니다. 잠시 후 다시 시도하십시오!";
+
+/**
+ *  Home 홈페이지
+ */
+"Signed_Success_Number" = "계약된 가게／개";
+"TransAction_Amount_Week" = "주 총거래액";
+"Has_Been_Signed" = "계약됨";
+"Under_Review" = "심사 중";
+"Wait_Submit" = "제출 대기";
+"Unknow" = "알 수 없음";
+"Review_Fail" = "심사 실패";
+"Determiner_Submit" = "제출 확인";
+"Review_Fail_Change" = "심사 실패（클릭 후 수정）";
+"Review_Fail_Reason" = "가게 자료 정보 부족, 확인 후 다시 제출해 보세요.";
+"Search_Loading" = "검색 중";
+"Basic_Message" = "기본 정보";
+"Contract_Message" = "계약 정보";
+"Contract_Change" = "계약 변경";
+"Owner_Message" = "사장님 정보";
+"Shop_Message" = "가게 정보";
+"Latitude_Longitude" = "경위도:";
+"Detailed_Address" = "주소:";
+
+"Enter_Merchant_Name" = "가게 이름을 입력하십시오";
+"Rank" = "순위";
+"Trading_Volume" = "거래액";
+"Shop_Name" = "가게 이름";
+"Trading_Water" = "거래 명세";
+"Liquidation_Record" = "청산 기록";
+"Material_Information" = "물품 정보";
+"Transaction_Details" = "거래 내역";
+"Trade_Charts" = "순위 차트";
+"Liquidation_Status" = "청산 상태";
+"Not_Cleared" = "미청산";
+"Has_Been_Cleared" = "청산 완료";
+"Change_Qr" = "가게마다 QR코드가 다 다르니 주의하십시오";
+"Save_Photo" = "앨범에서 저장";
+"Save_Fail" = "저장 실패";
+
+"Settle_Finish" = "청산 완료";
+"Settlf_Fail" = "미청산";
+"Order_detail" = "주문 내역";
+"Actual_Receivable" = "미수 금액:";
+"Settlement_Amount" = "결제 금액:";
+"Trading_Status" = "거래 상태:";
+"Channels_Payment" = "결제 방식:";
+"Payment_Business" = "가게:";
+"Transaction_Time" = "거래 시간:";
+"Transaction_Number" = "거래 번호:";
+"Payment_Code" = "결제 코드:";
+"Refund_Start_Time" = "환불 시간:";
+"Refund_Reason" = "환불 이유:";
+"Contract_Inforce" = "발효됨";
+"Contract_Expired" = "실효됨";
+
+/**
+ *  sign  표시
+ */
+"Information_Collection" = "정보 수집";
+"Submit" = "제출";
+"Create_New" = "새로 만들기";
+"Add_Owner_Message" = "사장님 정보를 추가하기";
+"Update_Success" = "업로드 완료";
+"Owner_Name" = "사장님 이름";
+"Account_Number" = "아이디";
+"Account_Name" = "별명";
+"Search_Owner" = "사장님 성함을 입력하십시오";
+"Country" = "나라";
+"Belong_Category" = "상품종목";
+"Cooperation_Competing" = "파트너";
+"Payment_Interface" = "결제 방식";
+"Recommend_Service" = "추천 서비스";
+"Please_Open_Location" = "위치정보 공유 서비스 열어 주십시오";
+"Refuse_Visit" = "방문 금지";
+"Unable_Get_Location" = "위치를 찾을 수 없습니다";
+
+"Locationing" = "위치를 확인 중";
+"Location_Fail" = "위치를 추적 실패";
+"Done" = "거래 완료";
+"Procress" = "환불 중";
+"Refunded" = "환불 완료";
+"UnPay" = "미지급";
+"Message_Draft" = "메시지 초안";
+
+/**
+ *  店主信息
+ */
+"Owner_Name_Colon" = "사장님 이름:";
+"Account_Name_Colon" = "아이디:";
+"ID_Card_C" = "주민등록번호:";
+"Country_C" = "나라:";
+"Province_C" = "지역:";
+"City_C" = "도시:";
+"Dispatch_Address_C" = "주소:";
+"Telephone_C" = "전화번호:";
+"Phone_C" = "휴대폰번호:";
+"Email_C" = "메일:";
+"Remittance_Bank_C" = "송금은행:";
+"Branch_C" = "지점:";
+"Swift_Code_C" = "SWIFT CODE:";
+"Bank_Account_Name_C" = "입금주:";
+"Bank_Account_C" = "계좌번호:";
+
+/**
+ *  商户信息
+ */
+
+"Account_C" = "아이디:";
+"Shop_Logo" = "가게 로고:";
+"Shopper_Name" = "가게 이름:";
+"Detail_Address" = "주소:";
+"Belong_Area" = "소속 상권:";
+"Belong_Cate" = "상품종목:";
+"Coorperation" = "파트너:";
+"Product_Service" = "추천 서비스:";
+"Publicize_Photo" = "홍보 사진:";
+"Rate" = "요금률:";
+"Contract_Photo" = "계약 사진:";
+"PayChannel" = "결제 방식:";
+"Settle_Cycle" = "청산 기간:";
+
+/**
+ *  个人  개인
+ */
+"Me" = "나의";
+"Telephone" = "고객센터";
+"More" = "더보기";
+"Service_Hotline" = "상담 전화";
+"Online_Service" = "온라인 고객센터";
+"Information" = "정보";
+"Personal_Information" = "개인 정보";
+"Profile_Picture" = "프로필사진:";
+"Nickname" = "별명:";
+"Email" = "이메일:";
+"Sign_Out" = "로그아웃";
+"Take_Picture" = "사진 찍기";
+"Select_From_Album" = "앨범에서 선택";
+"Business_Situation" = "기업 뉴스";
+"Version_Notification" = "업데이트 알림";
+
+/**
+ *  登录   로그인
+ */
+"Login" = "로그인";
+
+/**
+ *  选择照片
+ */
+"Select_Photos" = "앨범 선택";
+"Delete_This_Picture" = "사진 삭제 확실합니까？";
+"Select_Only_Picture" = "%zd장 밖에 선택할 수도 없습니다";
+"Picture_Alert" = "앨범 보기 권한이 없습니다，다시 확인해 주십시오";
+"Temporarily" = "건너뛰기";
+"Go_Set" = "세트가 다시 완성";
+"Finish" = "확인";
+"Album_Permissions_Not_Open" = "앨범 방문 권한이 없습니다";
+"Set_Album_Permission" = "설정에서 카메라 서비스 권한이 설정해 주십시오\n(설정>QianYueBao>앨범>열기)";
+"Number_Photos_Unexceed" = "사진을 %zd장이상은 찍 수 없습니다";
+"PICKER_PowerBrowserPhotoLibirayText" = "앨범 방문 권한이 없습니다，설정에서 동의가 설정해 주십시오";

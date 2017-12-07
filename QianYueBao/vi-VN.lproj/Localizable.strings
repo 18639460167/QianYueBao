@@ -1,0 +1,182 @@
+/* 
+  Localizable.strings
+  QianYueBao
+
+  Created by tenpastnine-ios-dev on 17/3/27.
+  Copyright © 2017年 Black. All rights reserved.
+*/
+/*------------*/
+"BACK" = "Quay lại";
+"Search" = "Tìm kiếm";
+"Determine" = "Xắc nhận";
+"Cancel" = "Huỷ";
+"Change" = "Sửa đổi";
+"Save_Success" = "Lưu giữ thành công";
+"Save_Fail" = "Lưu giữ thất bại";
+"Change_Success" = "Sửa đổi thành công";
+"Save" = "Lưu giữ";
+"Use_Immediately" = "Sử dụng lập tức";
+"Open" = "Toàn bộ";
+"Close" = "Thu gọn";
+"Delete" = "Xoá";
+"Home" = "Trang chủ"; "User" = "Của tôi";
+/**
+ * 刷新 */
+"Not_More" = "Không còn nhiều hơn";
+"Uploading" = "Đang tải lên...";
+"Submit_Success" = "Đưa lên thành công";
+"Merchant_Trade_Charts" = "Thứ tự giao dịch cửa hàng";
+"Uploaded_Success" = "Tải lên thành công";
+"Upload_Fail_Number" = "Trong đó%zdtrang tải lên thất bại";
+"Disconnect_Internet" = "Mạng kém,xin vui lòng thử lại!";
+/**
+ * Home */
+"Signed_Success_Number" = "Đã ký kết thành công/nhà";
+"TransAction_Amount_Week" = "Số tiền giao dịch tổng cộng trong tuần này";
+"Has_Been_Signed" = "Đã ký kết";
+"Under_Review" = "Đang xét duyệt";
+"Wait_Submit" = "Đang đưa lên";
+"Unknow" = "Không biết";
+"Review_Fail" = "Xét duyệt thất bại";
+"Determiner_Submit" = "Xặc định đưa lên";
+"Review_Fail_Change" = "Xét duyệt thất bại(bấm để sửa đổi)"; "Review_Fail_Reason" = "Thông tin cửa hàng đưa lên không đẩy đủ,xin kiểm tra xong đưa lên lại";
+"Search_Loading" = "Đang tìm kiếm...";
+"Basic_Message" = "Thông tin cơ bản";
+"Contract_Message" = "Thông tin hợp đồng";
+"Contract_Change" = "Hợp đồng đổi thay";
+"Owner_Message" = "Thông tin chủ hàng";
+"Shop_Message" = "Thông tin cửa hàng";
+"Latitude_Longitude" = "Kinh độ vĩ độ:";
+"Detailed_Address" = "Địa chỉ cụ thể:";
+"Enter_Merchant_Name" = "Xin nhập vào tên cửa hàng";
+"Rank" = "Thứ tự";
+"Trading_Volume" = "Số tiền giao dịch";
+"Shop_Name" = "Tên cửa hàng";
+"Trading_Water" = "giao dịch thu chi";
+"Liquidation_Record" = "Ký lục tính toán";
+"Material_Information" = "Thông tin vật liệu";
+"Transaction_Details" = "Thông tin giao dịch";
+"Trade_Charts" = "Thứ tự giao dịch";
+"Liquidation_Status" = "Trạng thái thanh toán";
+"Not_Cleared" = "Chưa thanh toán";
+"Has_Been_Cleared" = "Đã thanh toán";
+"Change_Qr" = "Mã QR mỗi cửa hàng khác nhau,xin chú ý đổi thay";
+"Save_Photo" = "Lưu vào máy";
+"Save_Fail" = "Lưu giữ thất bại";
+"Settle_Finish" = "Đã chuyển tiền";
+"Settlf_Fail" = "Chưa chuyển tiền";
+"Order_detail" = "Thông tin đơn hàng";
+"Actual_Receivable" = "số tiền phải thu:";
+"Settlement_Amount" = "Số tiền thanh toán:";
+"Trading_Status" = "Trạng thái giao dịch:";
+"Channels_Payment" = "kênh thanh toán:";
+"Payment_Business" = "Cửa hàng giao dịch:";
+"Transaction_Time" = "Thời gian giao dịch:";
+"Transaction_Number" = "Mã giao dịch:";
+"Payment_Code" = "Mã thanh toán:";
+"Refund_Start_Time" = "Thời gian bắt đầu hoàn tiền:";
+"Refund_Reason" = "Nguyên nhân hoàn tiền:";
+"Contract_Inforce" = "Đã có hiệu lực";
+"Contract_Expired" = "Đã mất hiệu lực";
+/**
+ * sign */
+"Information_Collection" = "Thông tin thu thập";
+"Submit" = "Đưa lên";
+"Create_New" = "Mới";
+"Add_Owner_Message" = "Thêm thông tin chủ hàng";
+"Update_Success" = "Đưa lên thành công";
+"Owner_Name" = "Tên chủ hàng";
+"Account_Number" = "Tải khoản";
+"Account_Name" = "Tên tải khoản";
+"Search_Owner" = "Xin nhập tên chủ hàng để tìm kiếm";
+"Country" = "Quốc gia";
+"Belong_Category" = "loại thuộc về";
+"Cooperation_Competing" = "sản phẩm cùng loại";
+"Payment_Interface" = "Kênh thanh toán";
+"Recommend_Service" = "Để cử sản phẩm và dịch vụ";
+"Please_Open_Location" = "Bạn cần cấp quyền truy cập dịch vụ định vị,mới dùng được chức năng định vị";
+"Refuse_Visit" = "Từ chối";
+"Unable_Get_Location" = "Không lấy được vị trí định vị";
+"Locationing" = "Đang định vị ...";
+"Location_Fail" = "Định vị thất bại";
+"Done" = "Đã giao dịch";
+"Procress" = "Đang hoàn tiền";
+"Refunded" = "Đã hoàn tiền";
+"UnPay" = "Chưa thanh toán";
+"Message_Draft" = "thông tin bản nháp";
+
+/**
+ *  店主信息
+ */
+"Owner_Name_Colon" = "Tên chủ hàng:";
+"Account_Name_Colon" = "Tên tải khoản:";
+"ID_Card_C" = "CMND:";
+"Country_C" = "Quốc tịch:";
+"Province_C" = "Tỉnh:";
+"City_C" = "Thành phố:";
+"Dispatch_Address_C" = "Địa chỉ:";
+"Telephone_C" = "Điện thoại:";
+"Phone_C" = "Di động:";
+"Email_C" = "Email:";
+"Remittance_Bank_C" = "Ngân hàng chuyển tiền:";
+"Branch_C" = "Chi nhánh:";
+"Swift_Code_C" = "SWIFT CODE:";
+"Bank_Account_Name_C" = "Tên tải khoản ngân hàng:";
+"Bank_Account_C" = "số thẻ ngân hàng:";
+
+/**
+ *  商户信息
+ */
+"Account_C" = "số tải khoản";
+"Shop_Logo" = "Logo cửa hàng:";
+"Shopper_Name" = "Tên cửa hàng:";
+"Detail_Address" = "Địa chỉ cụ thể:";
+"Belong_Area" = "Thuộc khu vực:";
+"Belong_Cate" = "Thuộc chủng loại:";
+"Coorperation" = "Sản phẩm hợp tác:";
+"Product_Service" = "Tiền cử sản phẩm:";
+"Publicize_Photo" = "Hình ảnh tuyên truyền:";
+"Rate" = "Tỷ lệ phí thu:";
+"Contract_Photo" = "Hình ảnh hợp đồng:";
+"PayChannel" = "Phương thức thanh toán:";
+"Settle_Cycle" = "Chu kỳ kết toán:";
+
+/**
+ * 个人信息
+ */
+"Me" = "Tôi";
+"Telephone" = "Liên hệ";
+"More" = "Nhiều hơn";
+"Service_Hotline" = "Điện thoại";
+"Online_Service" = "Tư vấn Online";
+"Information" = "Thông tin";
+"Personal_Information" = "Thông tin cá nhân";
+"Profile_Picture" = "Ảnh đại diện:";
+"Nickname" = "Tên:";
+"Email" = "Email:";
+"Sign_Out" = "Đăng xuất";
+"Take_Picture" = "Chụp ảnh";
+"Select_From_Album" = "Chọn từ trong máy";
+"Business_Situation" = "Tình hình doanhnghiệp";
+"Version_Notification" = "Thông báo bản mới";
+/**
+ * 登录 */
+"Login" = "Đăng nhập";
+/**
+ * 选择照  */
+"Select_Photos" = "Lửa chọn ảnh sưu tập";
+"Delete_This_Picture" = "Xác nhận xoá ảnh này?";
+"Select_Only_Picture" = "Nhiều nhất chỉ được chọn %zd cái ảnh"; "Picture_Alert" = "Chưa cấp quyền truy cập ảnh~xin truy cập ở trong cài đặt";
+"Temporarily" = "Tạm thời chưa";
+"Go_Set" = "Đi cài đặt";
+"Finish" = "Hoàn thành";
+"Album_Permissions_Not_Open" = "Chưa có quyền truy cập ảnh"; "Set_Album_Permission" = "Xin truy cập Camera ở trong cài đặt\n(Cài đặt>Bảo mật>Ảnh>Bật ON)";
+"Number_Photos_Unexceed" = "Số lượng chụp ảnh không được quá"; "PICKER_PowerBrowserPhotoLibirayText" = "Bạn chưa cấp quyền truy cập ảnh,cấp quyền vào cài đặt->Bảo mật->App của tôi để cấp quyền";
+
+"Locationing" = "Đang định vị...";
+"Location_Fail" = "Định vị thất bại";
+"Done" = "Paid";
+"Procress" = "Đang hoàn tiền";
+"Refunded" = "Đã hoàn tiền";
+"UnPay" = "Chưa thanh toán";
+"Message_Draft" = "Thông tin bản nháp";
